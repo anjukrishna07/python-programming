@@ -12,3 +12,14 @@ def fibonacci(num):
          n1=num3
          count=count+1
 fibonacci(num)
+//
+output
+enter the value:7
+the fibonacci series is:
+0
+1
+1
+2
+3
+4
+5
