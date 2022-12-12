@@ -8,3 +8,7 @@ def fact(num):
     return factorial
 fact(num)
 print("factorial of",num,"is:",fact(num))
+//
+output
+Enter the value:5
+factorial of 5 is: 120
