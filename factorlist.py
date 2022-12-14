@@ -4,3 +4,7 @@ def createFactorList(number):
             print("{} \t".format(i),end=" ")
 num = int(input("Enter a number to print it's factor list:"))
 createFactorList(num)
+//
+output
+Enter a number to print it's factor list:4
+1 	 2 	 4 	
