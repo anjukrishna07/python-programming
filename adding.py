@@ -7,3 +7,7 @@ def addIngOrLy(str):
 word=input("enter a word to modify:")
 modifiedstring = addIngOrLy(word)
 print("modifiedstring = ",modifiedstring)
+//
+output
+enter a word to modify:playing
+modifiedstring =  playingly
